@@ -37,6 +37,9 @@ function Nav() {
             <nav>
                 <ul className="flex-row">
                     <li>
+                        <span>Corinne Mestemacher</span>
+                    </li>
+                    <li>
                         <a hrefe="#about">
                             About Me
                         </a>
