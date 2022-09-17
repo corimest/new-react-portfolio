@@ -9,7 +9,7 @@ function Read() {
             <p>Provides a quick and easy way for developers to create a professional README file for their new projects.</p>
         <div>
             <h2>Repo Link</h2>
-                <p>https://github.com/corimest/README_generator</p>
+                <a href='https://github.com/corimest/README_generator'>Click Here</a>
             <h2>Deployed Link</h2>
             <p>In order to install, you will need to download to code to a local machine. You will need to have Node JS installed as well as Inquirer.</p>
         </div>

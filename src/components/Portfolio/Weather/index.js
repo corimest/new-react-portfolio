@@ -9,9 +9,9 @@ function Weather() {
             <p>A weather dashboard that runs in the browser, featuring dynamically update HTMl and CSS, and using OpenWeather One Call API.</p>
         <div>
             <h2>Repo Link</h2>
-                <p>https://github.com/corimest/weather-dashboard</p>
+                <a href='https://github.com/corimest/weather-dashboard'>Click Here</a>
             <h2>Deployed Link</h2>
-            <p>https://corimest.github.io/weather-dashboard/</p>
+            <a href='https://corimest.github.io/weather-dashboard/'>Click Here</a>
         </div>
         <img src={photo} style={{ width: '50%' }} alt='weather dashboard picture one'/>
         </section>

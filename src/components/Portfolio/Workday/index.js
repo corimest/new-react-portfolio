@@ -10,9 +10,9 @@ function Workday() {
             <p>This is a calendar application that allows users to create and save events for each hour throughout the day.</p>
         <div>
             <h2>Repo Link</h2>
-                <p>https://github.com/corimest/workday.git</p>
+                <a href='https://github.com/corimest/workday.git'>Click Here</a>
             <h2>Deployed Link</h2>
-            <p>https://corimest.github.io/workday/</p>
+            <a href='https://corimest.github.io/workday/'>Click Here</a>
         </div>
         <img src={photo} style={{ width: '50%' }} alt='workday picture one'/>
         </section>
