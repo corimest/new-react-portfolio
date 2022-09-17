@@ -1,36 +1,13 @@
 import React from 'react'; 
 
-function Nav() {
-    // const categories = useState([
-    //     {
-    //         name: "project_1", 
-    //         description: "The first project", 
-    //     }, 
-    //     {
-    //         name: "project_2", 
-    //         description: "The second project", 
-    //     }, 
-    //     {
-    //         name: "project_3", 
-    //         description: "The third project", 
-    //     }, 
-    //     {
-    //         name: "project_4", 
-    //         description: "The fourth project", 
-    //     }, 
-    //     {
-    //         name: "project_5", 
-    //         description: "The five project", 
-    //     }, 
-    //     {
-    //         name: "project_6", 
-    //         description: "The sixth project", 
-    //     }
-    // ])
-
-    // function categorySelected(name) {
-    //     console.log(`${name} clicked`)
-    // }
+function Nav(props) {
+    const {
+        categories = [],
+        setCurrentCategory,
+        currentCategory,
+        contactSelected,
+        setContactSelected
+      } = props;
 
     return(
         <header>
@@ -40,28 +17,18 @@ function Nav() {
                         <span>Corinne Mestemacher</span>
                     </li>
                     <li>
-                        <a href="#about">
+                        <a data-testid='about' href="#about" onClick={() => setContactSelected(false)}>
                             About Me
                         </a>
                     </li>
                     <li>
-                        <a href="#portfolio">
+                        <a data-testid='portfolio' href="#portfolio" onClick={() => setContactSelected(false)}>
                             Portfolio
                         </a>
                     </li>
                     <li>
-                        <span>Contact Me</span>
+                    <span onClick={() => setContactSelected(true)}>Contact Me</span>
                     </li>
-                    {/* {categories.map((category) => (
-                        <li
-                            className="mx-1"
-                            key={category.name}
-                        >
-                        <span onClick={() => categorySelected(category.name)} >
-                            {category.name}
-                        </span>
-                        </li> */}
-                    {/* ))} */}
                 </ul>
             </nav>
         </header>
