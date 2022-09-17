@@ -9,7 +9,7 @@ import Run from './Run';
 function Portfolio() {
 
     return (
-        <section>
+        <section id='portfolio'>
             <Workday></Workday>
             <Cats></Cats>
             <Note></Note>
