@@ -9,11 +9,15 @@ function Run() {
             <p>A website that offers fitness training services.</p>
         <div>
             <h2>Repo Link</h2>
-                <a href='https://github.com/corimest/run-buddy'>Click Here</a>
+                <div className='link'>
+                    <a href='https://github.com/corimest/run-buddy'>Click Here</a>
+                </div>
             <h2>Deployed Link</h2>
-                <a href='https://corimest.github.io/run-buddy/'>Click Here</a>
+                <div className='link'>
+                    <a href='https://corimest.github.io/run-buddy/'>Click Here</a>
+                </div>
         </div>
-        <img src={photo} style={{ width: '50%' }} alt='Run Buddy homepage picture'/>
+        <img className='img' src={photo} style={{ width: '50%' }} alt='Run Buddy homepage picture'/>
         </section>
     )
 }
