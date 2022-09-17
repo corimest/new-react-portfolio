@@ -33,9 +33,9 @@ function App() {
       <main>
         {!contactSelected ? (
           <>
-            <Portfolio currentCategory={currentCategory}></Portfolio>
             <About></About>
             <Resume></Resume>
+            <Portfolio currentCategory={currentCategory}></Portfolio>
           </>
         ) : (
           <Contact></Contact>
