@@ -9,9 +9,9 @@ function Run() {
             <p>A website that offers fitness training services.</p>
         <div>
             <h2>Repo Link</h2>
-                <p>https://github.com/corimest/run-buddy</p>
+                <a href='https://github.com/corimest/run-buddy'>Click Here</a>
             <h2>Deployed Link</h2>
-            <p>https://corimest.github.io/run-buddy/</p>
+                <a href='https://corimest.github.io/run-buddy/'>Click Here</a>
         </div>
         <img src={photo} style={{ width: '50%' }} alt='Run Buddy homepage picture'/>
         </section>
