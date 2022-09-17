@@ -9,11 +9,15 @@ function Note() {
             <p>The Note Taker application allows users to be able to write and save notes so they can organize their lives.</p>
         <div>
             <h2>Repo Link</h2>
-                <a href='https://github.com/corimest/Note_Taker'>Click Here</a>
+                <div className='link'>
+                    <a href='https://github.com/corimest/Note_Taker'>Click Here</a>
+                </div>
             <h2>Deployed Link</h2>
-                <a href='https://corimest.github.io/Note_Taker/'>Click Here</a>
+                <div className='link'>
+                    <a href='https://corimest.github.io/Note_Taker/'>Click Here</a>
+                </div>
         </div>
-        <img src={photo} style={{ width: '50%' }} alt='notes taker picture'/>
+        <img className='img' src={photo} style={{ width: '50%' }} alt='notes taker picture'/>
         </section>
     )
 }

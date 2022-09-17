@@ -10,7 +10,7 @@ function Resume() {
     ]);
     const [currentPage] = useState(pages[0]);
     return (
-        <section>
+        <section id='resume'>
             <h3>Proficiencies</h3>
                 <ul>
                     <li>HTML</li>
@@ -20,9 +20,9 @@ function Resume() {
                     <li>Bootstrap</li>
                     <li>APIs</li>
                 </ul>
-                <p>
-                    <a href={Pdf1} download> Download Part 1 of my resume</a>
-                    <a href={Pdf2} download> Download Part 2 of my resume</a>
+                <p className='download'>
+                    <a href={Pdf1} download> Download Part 1 of my Resume</a>
+                    <a href={Pdf2} download> Download Part 2 of my Resume</a>
                 </p>
         </section>
     );
