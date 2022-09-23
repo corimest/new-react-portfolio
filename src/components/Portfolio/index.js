@@ -5,6 +5,7 @@ import Workday from './Workday';
 import Weather from './Weather';
 import Read from './readme_gen';
 import Run from './Run';
+import Christmas from './Christmas';
 
 function Portfolio() {
 
@@ -12,6 +13,7 @@ function Portfolio() {
         <section id='portfolio'>
             <Workday></Workday>
             <Cats></Cats>
+            <Christmas></Christmas>
             <Note></Note>
             <Weather></Weather>
             <Read></Read>
