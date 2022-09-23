@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/corinne-react-portfolio/static/css/main.3cf6fa08.css",
-    "main.js": "/corinne-react-portfolio/static/js/main.bd6ab34f.js",
-    "static/js/787.1ed0c42c.chunk.js": "/corinne-react-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/runbuddy_pic.png": "/corinne-react-portfolio/static/media/runbuddy_pic.ab815e9c3e402afe9ef5.png",
-    "static/media/WorkDay_pic1.png": "/corinne-react-portfolio/static/media/WorkDay_pic1.ac721032fd1f54aeb607.png",
-    "static/media/readme_pic.png": "/corinne-react-portfolio/static/media/readme_pic.27db9ecf3c75edc536bd.png",
-    "static/media/Christmas_Screenshot.jpg": "/corinne-react-portfolio/static/media/Christmas_Screenshot.5ea519c9453697cb61aa.jpg",
-    "static/media/weather_pic.png": "/corinne-react-portfolio/static/media/weather_pic.4c52a339b26c956e9003.png",
-    "static/media/Resume_Part-2.png": "/corinne-react-portfolio/static/media/Resume_Part-2.a718072d733db00c2f0f.png",
-    "static/media/Resume_Part-1.png": "/corinne-react-portfolio/static/media/Resume_Part-1.c322cc682b9b7f7a9c5b.png",
-    "static/media/cats_title.png": "/corinne-react-portfolio/static/media/cats_title.c73435a6ec032e6f6546.png",
-    "static/media/Note_Taker_pic.png": "/corinne-react-portfolio/static/media/Note_Taker_pic.d55bc821099053f051d3.png",
-    "static/media/Screen Shot 2022-06-07 at 8.21.40 PM.png": "/corinne-react-portfolio/static/media/Screen Shot 2022-06-07 at 8.21.40 PM.2a30d53e80bbfc82f250.png",
-    "index.html": "/corinne-react-portfolio/index.html",
-    "main.3cf6fa08.css.map": "/corinne-react-portfolio/static/css/main.3cf6fa08.css.map",
-    "main.bd6ab34f.js.map": "/corinne-react-portfolio/static/js/main.bd6ab34f.js.map",
-    "787.1ed0c42c.chunk.js.map": "/corinne-react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/new-react-portfolio/static/css/main.3cf6fa08.css",
+    "main.js": "/new-react-portfolio/static/js/main.04119221.js",
+    "static/js/787.1ed0c42c.chunk.js": "/new-react-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/runbuddy_pic.png": "/new-react-portfolio/static/media/runbuddy_pic.ab815e9c3e402afe9ef5.png",
+    "static/media/WorkDay_pic1.png": "/new-react-portfolio/static/media/WorkDay_pic1.ac721032fd1f54aeb607.png",
+    "static/media/readme_pic.png": "/new-react-portfolio/static/media/readme_pic.27db9ecf3c75edc536bd.png",
+    "static/media/Christmas_Screenshot.jpg": "/new-react-portfolio/static/media/Christmas_Screenshot.5ea519c9453697cb61aa.jpg",
+    "static/media/weather_pic.png": "/new-react-portfolio/static/media/weather_pic.4c52a339b26c956e9003.png",
+    "static/media/Resume_Part-2.png": "/new-react-portfolio/static/media/Resume_Part-2.a718072d733db00c2f0f.png",
+    "static/media/Resume_Part-1.png": "/new-react-portfolio/static/media/Resume_Part-1.c322cc682b9b7f7a9c5b.png",
+    "static/media/cats_title.png": "/new-react-portfolio/static/media/cats_title.c73435a6ec032e6f6546.png",
+    "static/media/Note_Taker_pic.png": "/new-react-portfolio/static/media/Note_Taker_pic.d55bc821099053f051d3.png",
+    "static/media/Screen Shot 2022-06-07 at 8.21.40 PM.png": "/new-react-portfolio/static/media/Screen Shot 2022-06-07 at 8.21.40 PM.2a30d53e80bbfc82f250.png",
+    "index.html": "/new-react-portfolio/index.html",
+    "main.3cf6fa08.css.map": "/new-react-portfolio/static/css/main.3cf6fa08.css.map",
+    "main.04119221.js.map": "/new-react-portfolio/static/js/main.04119221.js.map",
+    "787.1ed0c42c.chunk.js.map": "/new-react-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3cf6fa08.css",
-    "static/js/main.bd6ab34f.js"
+    "static/js/main.04119221.js"
   ]
 }
